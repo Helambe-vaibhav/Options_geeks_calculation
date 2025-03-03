@@ -1,4 +1,4 @@
-# 📈 Option Greeks & Pricing Analysis  
+# 📈 Mastering Option Greeks: A Quantitative Approach  
 
 This repository provides an in-depth analysis of **Option Greeks**, their interactions, and **option pricing calculations** using the **Black-Scholes model**. We explore how Greeks behave under different market conditions, how they impact **option pricing and risk management**, and provide tools for **implied volatility calculations**.  
 
