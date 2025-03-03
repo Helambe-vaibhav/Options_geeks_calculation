@@ -59,21 +59,27 @@ This repository covers:
 📌 **Effect of Gamma on Hedging:** High Gamma requires frequent rebalancing.  
 📌 **Theta Decay & Gamma Spikes:** Expiry leads to accelerated Theta decay and increased Gamma risk.  
 
-📢 Conclusion
-Understanding Option Greeks and option pricing is crucial for traders and risk managers. This repository provides:
-✅ A practical tool to analyze Greeks & price options.
-✅ Visualizations for better insights into market behavior.
-✅ Code implementation of the Black-Scholes pricing model & implied volatility calculations.
+## 📢 Conclusion  
 
-🤝 Contributing
-We welcome contributions! If you have suggestions, feel free to:
-🔹 Open an issue to discuss improvements or bugs.
-🔹 Submit a pull request with enhancements or fixes.
+Understanding **Option Greeks** and **option pricing** is crucial for traders and risk managers. This repository provides:  
 
-📌 Let's build a better options analytics toolkit together!
+✅ A **practical tool** to analyze Greeks & price options.  
+✅ **Visualizations** for better insights.  
+✅ **Code implementation** of the **Black-Scholes pricing model** & **Implied Volatility calculations**.  
 
-⭐ If you find this repo useful, consider giving it a star! ⭐
+---
 
-⚠️ Disclaimer
-This repository is provided for educational purposes only. Options trading involves significant risks, and this script does not constitute financial advice. Use it at your own discretion and conduct proper risk management before trading.
+## 🤝 Contributing  
 
+Contributions are welcome! If you have suggestions, feel free to:  
+
+🔹 **Open an issue** to discuss improvements or report bugs.  
+🔹 **Submit a pull request** with enhancements or fixes.  
+
+⭐ **Star this repo if you find it helpful!**  
+
+---
+
+## ⚠️ Disclaimer  
+
+This repository is for **educational purposes only**. Options trading involves risks, and this script is **not financial advice**. Use at your own risk.  
